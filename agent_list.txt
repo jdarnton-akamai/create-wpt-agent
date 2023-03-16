@@ -1,0 +1,3 @@
+us-central,Dallas,[unique location key]
+us-iad,Washington,[unique location key]
+us-east,Newark,[unique location key]
