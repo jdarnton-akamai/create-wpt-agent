@@ -2,4 +2,4 @@ api_token:
 username:
 password:
 root_pass:
-email:wpt_server:
+wpt_server:
